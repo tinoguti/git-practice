@@ -1,0 +1,3 @@
+Name: Tino
+Age: 31
+Favorite color: green
